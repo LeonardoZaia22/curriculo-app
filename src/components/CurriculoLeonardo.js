@@ -43,7 +43,7 @@ const CurriculoLeonardo = () => {
                   </a>
                   <a href="https://www.instagram.com/zaia_ls/" target="_blank" rel="noreferrer" 
                      className="btn btn-instagram btn-sm" style={{backgroundColor: '#E4405F', color: 'white'}}>
-                    <i className="bi bi-instagram"></i> Instagram
+                    <i className="bi bi-instagram"></i> instagram
                   </a>
                 </div>
               </div>
